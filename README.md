@@ -1,13 +1,17 @@
-# VisualStudioGithub�̃`���[�g���A��
-VisualStudio�ł̎g�p�z��  
-�ZGit���|�W�g���̍쐬  
-�E�V����GitHub���|�W�g�����쐬����/�A�J�E���g/�V����Github�A�J�E���g��ǉ�����
+# VisualStudioGithubのチュートリアル
+VisualStudioでの使用想定  
+〇Gitリポジトリの作成  
+・新しいGitHubリポジトリを作成する/アカウント/新しいGithubアカウントを追加する
 
-�Z�R�~�b�g : �O�񂩂�̕ύX���e���R�����g�����ĕۑ�  
-�E�R�����g����͂��āA���ׂĂ��R�~�b�g
+〇コミット : 前回からの変更内容をコメントをつけて保存  
+・コメントを入力して、すべてをコミット
 
-�Z���|�W�g��  
-�E�t�F�b�` : �����[�g�ŕύX���ꂽ���e�����[�J���ɕۑ�  
-�E�v�� : �t�F�b�`�ƃ}�[�W���s��  
-�E�v�b�V�� : ���[�J���ŕύX���ꂽ���e�������[�g�ɕۑ�  
-�E���� : �v���ƃv�b�V�����s��
+〇リポジトリ  
+・フェッチ : リモートで変更された内容をローカルに保存  
+・プル : フェッチとマージを行う  
+・プッシュ : ローカルで変更された内容をリモートに保存  
+・同期 : プルとプッシュを行う
+
+〇マージ  
+マージしたいブランチを右クリックしてマージ  
+※その後、必ずpushする
